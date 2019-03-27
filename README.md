@@ -5,4 +5,8 @@
 # author:  Julian
 
 
+# https://webref.ru/course/block-model
+# https://www.figma.com/file/gkoFt5WtSFN20AqPKVfqby46/EasyTV?node-id=0%3A1
+
+
 # https://github.com/dshopd/lesson
