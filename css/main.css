@@ -75,3 +75,15 @@
 	border-radius: 4px;
 	padding: 10px 12px 13px 12px;
 }
+.news {
+	width: 1150px;
+	margin: 0 auto;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.news__title {
+	font-family: Arial;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: center;
+}
