@@ -108,10 +108,13 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	align-items: flex-end;
+	align-content: flex-end;
 }
 .news__item {
 	width: 48%;
 	margin-bottom: 30px;
 	position: relative;
+}
+.news__position_title {
 	
 }
